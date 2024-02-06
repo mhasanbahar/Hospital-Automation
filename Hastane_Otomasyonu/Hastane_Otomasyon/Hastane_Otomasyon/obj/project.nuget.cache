@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "5j15HCzRJkliQIXi2e87B3tkY/WgZiijgMQoWNLy5FzF77nCJqqOjHnq+GJ12YZchlJ06g23HXWeZj7Hx1K0Hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mhasa\\Desktop\\Dersler Falan\\2.Sınıf 1.Dönem Dersleri\\Görsel Programlama 2\\Uygulamalar\\Hastane_Otomasyonu\\Hastane_Otomasyon\\Hastane_Otomasyon\\Hastane_Otomasyon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mhasa\\.nuget\\packages\\ado.net.client.annotations\\1.2.0\\ado.net.client.annotations.1.2.0.nupkg.sha512",
+    "C:\\Users\\mhasa\\.nuget\\packages\\ado.net.client.core\\1.4.5\\ado.net.client.core.1.4.5.nupkg.sha512",
+    "C:\\Users\\mhasa\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\mhasa\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\mhasa\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\mhasa\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\mhasa\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\mhasa\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\mhasa\\.nuget\\packages\\system.data.sqlclient\\4.8.5\\system.data.sqlclient.4.8.5.nupkg.sha512",
+    "C:\\Users\\mhasa\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\mhasa\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
